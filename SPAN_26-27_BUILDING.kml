@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SPAN_26-27_BUILDING.kml</name>
+	<Style id="area1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>c0beebff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Area Features</name>
+		<description>Area Features</description>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>GM_LAYER</B> = Unknown Area Type<BR><B>Id</B> = <BR><B>LAYER</B> = Unknown Area Type<BR><B>OBJECTID</B> = 1<BR><B>SHAPE_Leng</B> = 2.71868561875e-004<BR><B>SHAPE_Area</B> = 4.31518492257e-009]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							101.647692977,3.254626932,0 101.647698491,3.254611391,0 101.647688264,3.254606819,0 101.647702167,3.254568805,0 101.647777567,3.254600578,0 101.647754586,3.254651253,0 101.647692977,3.254626932,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>GM_LAYER</B> = Unknown Area Type<BR><B>Id</B> = <BR><B>LAYER</B> = Unknown Area Type<BR><B>OBJECTID</B> = 2<BR><B>SHAPE_Leng</B> = 2.13126295132e-004<BR><B>SHAPE_Area</B> = 2.42596758372e-009]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							101.647741975,3.254549999,0 101.64775969,3.254510797,0 101.647758512,3.254505769,0 101.647768092,3.25448282,0 101.647802574,3.254500374,0 101.647769801,3.254562989,0 101.647741975,3.254549999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>GM_LAYER</B> = Unknown Area Type<BR><B>Id</B> = <BR><B>LAYER</B> = Unknown Area Type<BR><B>OBJECTID</B> = 6<BR><B>SHAPE_Leng</B> = 1.37780748149e-004<BR><B>SHAPE_Area</B> = 1.16207518813e-009]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							101.64794903,3.25452096,0 101.647969325,3.254498037,0 101.647999758,3.25451582,0 101.647984217,3.254542344,0 101.64794903,3.25452096,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>GM_LAYER</B> = Unknown Area Type<BR><B>Id</B> = <BR><B>LAYER</B> = Unknown Area Type<BR><B>OBJECTID</B> = 7<BR><B>SHAPE_Leng</B> = 2.49692648549e-004<BR><B>SHAPE_Area</B> = 3.29388433912e-009]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							101.647862375,3.254692465,0 101.647885432,3.254628966,0 101.647907793,3.254637397,0 101.647943039,3.254634373,0 101.647950155,3.254645637,0 101.647943316,3.254670337,0 101.647862375,3.254692465,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>GM_LAYER</B> = Unknown Area Type<BR><B>Id</B> = <BR><B>LAYER</B> = Unknown Area Type<BR><B>OBJECTID</B> = 8<BR><B>SHAPE_Leng</B> = 1.73453275961e-004<BR><B>SHAPE_Area</B> = 1.29878849900e-009]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							101.646989624,3.254462419,0 101.647054703,3.254444626999999,0 101.647055609,3.25444438,0 101.647060231,3.254460977,0 101.646997321,3.254482359,0 101.646989624,3.254462419,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

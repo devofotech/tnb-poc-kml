@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SPAN_26-27_POWERLINE.kml</name>
+	<Style id="line1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffc500ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Line Features</name>
+		<description>Line Features</description>
+		<Placemark>
+			<description><![CDATA[Unknown Line Type<BR><BR><B>GM_LAYER</B> = Unknown Line Type<BR><B>LAYER</B> = Unknown Line Type<BR><B>OBJECTID</B> = 5<BR><B>SHAPE_Leng</B> = 5.31228388732e-003]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.6491389414,3.2541838937,0 101.648848229,3.254264549000001,0 101.646944544,3.254783921,0 101.646889264,3.254800536,0 101.6464573293,3.2553298682,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Line Type<BR><BR><B>GM_LAYER</B> = Unknown Line Type<BR><B>LAYER</B> = Unknown Line Type<BR><B>OBJECTID</B> = 6<BR><B>SHAPE_Leng</B> = 5.39240467444e-003]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.6463655914,3.2552540418,0 101.646833356,3.254684576999999,0 101.648807157,3.254117997,0 101.649099531,3.2540393796,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SPAN_26-27_ROAD.kml</name>
+	<Style id="line1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1134fa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Line Features</name>
+		<description>Line Features</description>
+		<Placemark>
+			<description><![CDATA[Unknown Line Type<BR><BR><B>GM_LAYER</B> = Unknown Line Type<BR><B>LAYER</B> = Unknown Line Type<BR><B>OBJECTID</B> = 6<BR><B>SHAPE_Leng</B> = 5.94099024124e-004]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.647573608,3.254771412,0 101.647826231,3.254233699,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Line Type<BR><BR><B>GM_LAYER</B> = Unknown Line Type<BR><B>LAYER</B> = Unknown Line Type<BR><B>OBJECTID</B> = 7<BR><B>SHAPE_Leng</B> = 6.25520127855e-004]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.648308555,3.254101836,0 101.648194939,3.254314926999999,0 101.64808591,3.254501311,0 101.648015104,3.254636102,0 101.648011833,3.254651605,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

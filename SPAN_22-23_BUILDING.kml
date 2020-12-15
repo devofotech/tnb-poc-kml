@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SPAN_22-23_BUILDING.kml</name>
+	<Style id="area1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfbeebff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Area Features</name>
+		<description>Area Features</description>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>GM_LAYER</B> = Unknown Area Type<BR><B>LAYER</B> = Unknown Area Type<BR><B>SHAPE_Leng</B> = 3.67387945679e-004<BR><B>BUFF_DIST</B> = <BR><B>ORIG_FID</B> = <BR><B>SPAN</B> = <BR><B>OBJECTID</B> = 1<BR><B>SHAPE_Area</B> = 6.69804665610e-009]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							101.640551122,3.257569628,0 101.64051245,3.257561755,0 101.640518165,3.257537241,0 101.640478298,3.257531160000001,0 101.640483186,3.257479723,0 101.640590288,3.257497337,0 101.640578532,3.25755803,0 101.640556223,3.257552889,0 101.640551122,3.257569628,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

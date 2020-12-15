@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SPAN_22-23_ROAD.kml</name>
+	<Style id="line1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1134fa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Line Features</name>
+		<description>Line Features</description>
+		<Placemark>
+			<description><![CDATA[Unknown Line Type<BR><BR><B>LAYER</B> = Unknown Line Type<BR><B>OBJECTID</B> = 2<BR><B>SHAPE_Leng</B> = 1.90974486179e-003]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.641078848,3.257180061,0 101.641057662,3.25719131,0 101.64102961,3.257206567,0 101.6409788621,3.2572264493,0 101.6409262827,3.257240804,0 101.640872472,3.257249467,0 101.640723081,3.257257577,0 101.640377017,3.257275602,0 101.6403095656,3.2572781391,0 101.6402421378,3.2572750383,0 101.640175204,3.257266321,0 101.6400932148,3.2572535974,0 101.6400105019,3.257247062699999,0 101.639927532,3.257246754000001,0 101.639814674,3.257246475000001,0 101.639761846,3.25725712,0 101.6397105576,3.2572736613,0 101.6396614646,3.2572958874,0 101.639615195,3.257323514,0 101.639300212,3.257592224,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Line Type<BR><BR><B>LAYER</B> = Unknown Line Type<BR><B>OBJECTID</B> = 5<BR><B>SHAPE_Leng</B> = 3.87233242679e-004]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.637426143,3.257572425000001,0 101.6374584616,3.25752756,0 101.6374953201,3.2574863433,0 101.6375363096,3.2574492323,0 101.6375809752,3.257416638600001,0 101.6376288214,3.2573889239,0 101.6376793174,3.2573663957,0 101.637731903,3.257349303999999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
